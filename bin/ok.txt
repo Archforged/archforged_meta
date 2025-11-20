@@ -1,0 +1,4 @@
+forged OK
+sysfetch NOK
+forgefetchmini NOK
+mallet NOK
