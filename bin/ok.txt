@@ -1,4 +1,4 @@
 forged OK
-sysfetch NOK
-forgefetchmini NOK
-mallet NOK
+gauntlet NOK
+forgefetchmini OK
+ctlfish NOK
